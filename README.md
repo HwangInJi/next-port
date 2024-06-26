@@ -11,5 +11,6 @@ npm i gsap sass lenis
 ## 실행
 
 ```bash
+rfc (내용 생성)
 npm run dev
 ```
